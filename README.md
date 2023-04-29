@@ -1,1 +1,3 @@
 # matplotlib
+Assistance: UCF Instructor assisted in the statistical summary, teaching assistant recommended using mice_type for creating bar graphs, a few classmates helped with various codes (such as deleting duplicates, restarting kernels occasionally, verifying accurate calculations).
+Resources: multiple exercises from modules 4 and 5. The most assistance came from 5.3. The following link was a helpful resource for getting familiarized with matplotlib https://www.w3schools.com/python/matplotlib_intro.asp. Lastly, the following resource was helpful for adding the regression equation/line to the scatterplot https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.annotate.html 
